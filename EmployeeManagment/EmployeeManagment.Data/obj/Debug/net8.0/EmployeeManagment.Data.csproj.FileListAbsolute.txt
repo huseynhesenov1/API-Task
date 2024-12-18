@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\bin\Debug\net8.0\EmployeeManagment.Data.deps.json
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\bin\Debug\net8.0\EmployeeManagment.Data.runtimeconfig.json
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\bin\Debug\net8.0\EmployeeManagment.Data.dll
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\bin\Debug\net8.0\EmployeeManagment.Data.pdb
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\bin\Debug\net8.0\EmployeeManagment.Core.dll
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\bin\Debug\net8.0\EmployeeManagment.Core.pdb
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\EmployeeManagment.Data.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\EmployeeManagment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\EmployeeManagment.Data.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\EmployeeManagment.Data.AssemblyInfo.cs
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\EmployeeManagment.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\Employee.AAD802E2.Up2Date
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\EmployeeManagment.Data.dll
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\refint\EmployeeManagment.Data.dll
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\EmployeeManagment.Data.pdb
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\EmployeeManagment.Data.genruntimeconfig.cache
+C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Data\obj\Debug\net8.0\ref\EmployeeManagment.Data.dll
