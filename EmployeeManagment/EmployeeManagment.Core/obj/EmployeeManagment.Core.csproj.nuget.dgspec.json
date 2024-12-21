@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.Core\\EmployeeManagment.Core.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.Core\\EmployeeManagment.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.Core\\EmployeeManagment.Core.csproj": {
+    "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.Core\\EmployeeManagment.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.Core\\EmployeeManagment.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.Core\\EmployeeManagment.Core.csproj",
         "projectName": "EmployeeManagment.Core",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.Core\\EmployeeManagment.Core.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.Core\\EmployeeManagment.Core.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.Core\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

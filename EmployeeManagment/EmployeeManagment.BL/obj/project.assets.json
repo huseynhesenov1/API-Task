@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.BL\\EmployeeManagment.BL.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.BL\\EmployeeManagment.BL.csproj",
       "projectName": "EmployeeManagment.BL",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.BL\\EmployeeManagment.BL.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.BL\\EmployeeManagment.BL.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.BL\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2776,8 +2776,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.Data\\EmployeeManagment.Data.csproj": {
-              "projectPath": "C:\\Users\\ACER\\source\\repos\\EmployeeManagment\\EmployeeManagment.Data\\EmployeeManagment.Data.csproj"
+            "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.Data\\EmployeeManagment.Data.csproj": {
+              "projectPath": "C:\\Users\\ACER\\Desktop\\APİ\\EmployeeManagment\\EmployeeManagment.Data\\EmployeeManagment.Data.csproj"
             }
           }
         }

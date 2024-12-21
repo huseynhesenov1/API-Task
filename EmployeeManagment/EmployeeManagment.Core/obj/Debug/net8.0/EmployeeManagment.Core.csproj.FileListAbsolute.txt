@@ -9,3 +9,15 @@ C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Core\obj\Debug\ne
 C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\refint\EmployeeManagment.Core.dll
 C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.pdb
 C:\Users\ACER\source\repos\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\ref\EmployeeManagment.Core.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\bin\Debug\net8.0\EmployeeManagment.Core.deps.json
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\bin\Debug\net8.0\EmployeeManagment.Core.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\bin\Debug\net8.0\EmployeeManagment.Core.pdb
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.AssemblyInfo.cs
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.sourcelink.json
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\refint\EmployeeManagment.Core.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.pdb
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\ref\EmployeeManagment.Core.dll

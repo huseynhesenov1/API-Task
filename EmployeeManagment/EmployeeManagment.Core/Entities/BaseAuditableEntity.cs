@@ -1,6 +1,6 @@
 ﻿namespace EmployeeManagment.Core.Entities;
 
-public class BaseAuditableEntity:BaseEntity
+public abstract class BaseAuditableEntity:BaseEntity
 {
     public DateTime CreateAt { get; set; }
     public DateTime? CreateBy { get; set; }
