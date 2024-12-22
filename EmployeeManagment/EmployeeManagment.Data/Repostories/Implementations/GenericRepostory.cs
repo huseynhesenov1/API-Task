@@ -45,4 +45,10 @@ public class GenericRepostory<Tentity> : IGenericRepostory<Tentity> where Tentit
     {
        return await _context.SaveChangesAsync();
     }
+
+    //public Tentity SoftDelete(Tentity entity)
+    //{
+    //    entity.IsDeleted = false;
+    //    return entity;
+    //}
 }

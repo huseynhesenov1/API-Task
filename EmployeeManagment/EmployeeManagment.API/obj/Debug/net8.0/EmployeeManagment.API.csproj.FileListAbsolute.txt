@@ -297,3 +297,6 @@ C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\obj\Debug\net
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\obj\Debug\net8.0\EmployeeManagment.API.pdb
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\obj\Debug\net8.0\EmployeeManagment.API.genruntimeconfig.cache
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\obj\Debug\net8.0\ref\EmployeeManagment.API.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -23,9 +23,13 @@ namespace EmployeeManagment.API.Controllers
            return await  _depertmentService.GetAllAsync();
         }
         [HttpPost]
-        public Task<Department> Create(DepartmentCreateDto departmentCreateDto)
+        public async Task<IActionResult> Create(DepartmentCreateDto departmentCreateDto)
         {
-           return _depertmentService.CreateAsync(departmentCreateDto);
+            if (!ModelState.IsValid)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+            }
+            return StatusCode(StatusCodes.Status201Created, await _depertmentService.CreateAsync(departmentCreateDto)); 
         }
     }
 }

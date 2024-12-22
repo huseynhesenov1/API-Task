@@ -22,10 +22,15 @@ namespace EmployeeManagment.API.Controllers
            return await _employeeService.GetAllAsync();
         }
         [HttpPost]
-        public async Task<Employee> Create(EmployeeCreateDto employeeCreateDto)
+        public async Task<IActionResult> Create(EmployeeCreateDto employeeCreateDto)
         {
-           return  await _employeeService.CreateAsync(employeeCreateDto);
+            if (!ModelState.IsValid)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+            }
+            return  StatusCode(StatusCodes.Status201Created, await _employeeService.CreateAsync(employeeCreateDto));
         }
+
 
     }
 }

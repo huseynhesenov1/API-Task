@@ -8,4 +8,5 @@ public interface IEmployeeService
 {
     Task<ICollection<Employee>> GetAllAsync();
     Task<Employee> CreateAsync(EmployeeCreateDto employeeCreateDto);    
+    //Employee SoftDelete(Employee employee);
 }

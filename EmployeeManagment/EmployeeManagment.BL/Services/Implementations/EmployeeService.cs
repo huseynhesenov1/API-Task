@@ -33,5 +33,10 @@ namespace EmployeeManagment.BL.Services.Implementations
         {
            return await _employeeRepo.GetAllAsync();
         }
+
+        //public Employee SoftDelete(Employee employee)
+        //{
+        //   return _employeeRepo.SoftDelete(employee);
+        //}
     }
 }
