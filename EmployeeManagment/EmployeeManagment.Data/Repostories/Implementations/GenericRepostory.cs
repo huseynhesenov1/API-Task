@@ -15,7 +15,7 @@ public class GenericRepostory<Tentity> : IGenericRepostory<Tentity> where Tentit
     }
     public DbSet<Tentity> table => _context.Set<Tentity>();
 
-    public async Task<IEnumerable<Tentity>> GetAllAsync()
+    public async Task<ICollection<Tentity>> GetAllAsync()
     {
          return await table.ToListAsync();
     }
@@ -41,5 +41,8 @@ public class GenericRepostory<Tentity> : IGenericRepostory<Tentity> where Tentit
        table.Update(entity);
     }
 
-    
+    public async Task<int> SavaChangesAsync()
+    {
+       return await _context.SaveChangesAsync();
+    }
 }

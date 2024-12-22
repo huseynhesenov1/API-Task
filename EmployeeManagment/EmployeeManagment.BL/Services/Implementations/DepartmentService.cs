@@ -1,33 +1,34 @@
-﻿using EmployeeManagment.BL.Services.Abstractions;
+﻿using EmployeeManagment.BL.DTOs.DepartmentDTOs;
+using EmployeeManagment.BL.Services.Abstractions;
 using EmployeeManagment.Core.Entities;
+using EmployeeManagment.Data.Repostories.Abstactions;
 
 namespace EmployeeManagment.BL.Services.Implementations
 {
     public class DepartmentService : IDepartmentService
     {
-        public Task<Department> CreateAsync(Department entity)
+        private readonly IDepartmentRepostory _departmentRepo;
+
+        public DepartmentService(IDepartmentRepostory departmentRepo)
         {
-            throw new NotImplementedException();
+            _departmentRepo = departmentRepo;
         }
 
-        public void Delete(Department entity)
+        public async Task<Department> CreateAsync(DepartmentCreateDto departmentCreateDto)
         {
-            throw new NotImplementedException();
+            Department department = new Department();
+            department.Name = departmentCreateDto.Name;
+            department.IsDeleted = departmentCreateDto.IsDeleted;
+            department.EmployeeCount = departmentCreateDto.EmployeeCount;
+            department.CreateAt = DateTime.UtcNow.AddHours(4);
+            var added = await _departmentRepo.CreateAsync(department);
+            await _departmentRepo.SavaChangesAsync();
+            return added;
         }
 
-        public Task<IEnumerable<Department>> GetAllAsync()
+        public async Task<ICollection<Department>> GetAllAsync()
         {
-            throw new NotImplementedException();
-        }
-
-        public Task<Department> GetByIdAsAsync(int Id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Update(Department entity)
-        {
-            throw new NotImplementedException();
+            return await _departmentRepo.GetAllAsync();
         }
     }
 }
