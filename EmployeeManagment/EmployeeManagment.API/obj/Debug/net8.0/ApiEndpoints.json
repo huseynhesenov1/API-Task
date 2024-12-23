@@ -52,6 +52,43 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "EmployeeManagment.API.Controllers.DepartmentsController",
+    "Method": "SoftDelete",
+    "RelativePath": "api/Departments/id",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagment.API.Controllers.DepartmentsController",
+    "Method": "Update",
+    "RelativePath": "api/Departments/id",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "departmentCreateDto",
+        "Type": "EmployeeManagment.BL.DTOs.DepartmentDTOs.DepartmentCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EmployeeManagment.API.Controllers.EmployeesController",
     "Method": "Get",
     "RelativePath": "api/Employees",

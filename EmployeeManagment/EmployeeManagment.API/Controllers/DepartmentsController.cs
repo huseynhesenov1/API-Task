@@ -45,5 +45,33 @@ namespace EmployeeManagment.API.Controllers
             }
             
         }
+        [HttpDelete]
+        [Route("id")]
+        public async Task<IActionResult> SoftDelete(int id)
+        {
+            try
+            {
+                return StatusCode(StatusCodes.Status200OK, await _depertmentService.SoftDeleteAsync(id));
+            }
+            catch (Exception e)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+            }
+
+        }
+        [HttpPut]
+        [Route("id")]
+        public async Task<IActionResult> Update(int id, DepartmentCreateDto departmentCreateDto)
+        {
+            try
+            {
+                return StatusCode(StatusCodes.Status200OK, await _depertmentService.UpdateAsync(id, departmentCreateDto));
+            }
+            catch (Exception e)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, e.Message);
+            }
+
+        }
     }
 }

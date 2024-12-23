@@ -40,5 +40,24 @@ namespace EmployeeManagment.BL.Services.Implementations
             }
             return await _departmentRepo.GetByIdAsync(id);
         }
+
+        public async Task<Department> SoftDeleteAsync(int id)
+        {
+            var departmentEntity = await GetByIdAsync(id);
+            await _departmentRepo.SoftDeleteAsync(departmentEntity);
+            await _departmentRepo.SavaChangesAsync();
+            return departmentEntity;
+        }
+
+        public async Task<Department> UpdateAsync(int id, DepartmentCreateDto departmentCreateDto)
+        {
+            var departmentEntity = await GetByIdAsync(id);
+            Department updateDepartment = _mapper.Map<Department>(departmentCreateDto);
+            updateDepartment.Id = id;
+            updateDepartment.UpdateAt = DateTime.UtcNow.AddHours(4);
+            _departmentRepo.Update(updateDepartment);
+            await _departmentRepo.SavaChangesAsync();
+            return updateDepartment;
+        }
     }
 }

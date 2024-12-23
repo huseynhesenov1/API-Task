@@ -17,7 +17,7 @@ public class GenericRepostory<Tentity> : IGenericRepostory<Tentity> where Tentit
 
     public async Task<ICollection<Tentity>> GetAllAsync()
     {
-         return await table.ToListAsync();
+         return await table.Where(x=>!x.IsDeleted).ToListAsync();
     }
 
     public async Task<Tentity> CreateAsync(Tentity entity)
@@ -33,7 +33,7 @@ public class GenericRepostory<Tentity> : IGenericRepostory<Tentity> where Tentit
     }
     public async Task<Tentity> GetByIdAsync(int Id)
     {
-       return await table.FirstOrDefaultAsync(x => x.Id == Id);
+       return await table.AsNoTracking().FirstOrDefaultAsync(x => x.Id == Id);
     }
 
     public void Update(Tentity entity)
@@ -51,5 +51,9 @@ public class GenericRepostory<Tentity> : IGenericRepostory<Tentity> where Tentit
         return await table.AnyAsync(x => x.Id == Id && !x.IsDeleted);
     }
 
-    
+    public async Task<Tentity> SoftDeleteAsync(Tentity entity)
+    {
+        entity.IsDeleted= true;
+        return  entity;
+    }
 }
