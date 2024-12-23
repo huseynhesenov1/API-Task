@@ -9,7 +9,8 @@ namespace EmployeeManagment.Data.Repostories.Abstactions
         void Update(Tentity entity);
         void Delete(Tentity entity);   
         //Tentity SoftDelete(Tentity entity);
-        Task<Tentity> GetByIdAsAsync(int Id);
+        Task<Tentity> GetByIdAsync(int Id);
+        Task<bool> IsExistsAsync(int Id);
         Task<int> SavaChangesAsync();
     }
 }

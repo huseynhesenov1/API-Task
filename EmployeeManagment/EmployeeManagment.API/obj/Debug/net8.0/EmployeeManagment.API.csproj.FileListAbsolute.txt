@@ -300,3 +300,4 @@ C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\obj\Debug\net
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\bin\Debug\net8.0\FluentValidation.dll
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.API\bin\Debug\net8.0\AutoMapper.dll

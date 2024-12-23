@@ -1,4 +1,5 @@
 using EmployeeManagment.BL.DTOs.DepartmentDTOs;
+using EmployeeManagment.BL.Profiles.DepartmentProfiles;
 using EmployeeManagment.BL.Services.Abstractions;
 using EmployeeManagment.BL.Services.Implementations;
 using EmployeeManagment.Data.DAL;
@@ -23,7 +24,7 @@ builder.Services.AddScoped<IDepartmentRepostory, DepartmentRepostory>();
 builder.Services.AddScoped<IDepartmentService, DepartmentService>();
 
 
-
+builder.Services.AddAutoMapper(typeof(DepartmentProfile).Assembly);
 builder.Services.AddValidatorsFromAssembly(typeof(DepartmentCreateDtoValidation).Assembly);
 builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddFluentValidationClientsideAdapters();

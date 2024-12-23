@@ -31,5 +31,19 @@ namespace EmployeeManagment.API.Controllers
             }
             return StatusCode(StatusCodes.Status201Created, await _depertmentService.CreateAsync(departmentCreateDto)); 
         }
+        [HttpGet]
+        [Route("id")]
+        public async Task<IActionResult> GetById(int id)
+        {
+            try
+            {
+                return StatusCode(StatusCodes.Status200OK, await _depertmentService.GetByIdAsync(id));
+            }
+            catch (Exception e)
+            {
+                return StatusCode(StatusCodes.Status404NotFound, e.Message);
+            }
+            
+        }
     }
 }

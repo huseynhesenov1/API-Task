@@ -1,4 +1,5 @@
-﻿using EmployeeManagment.BL.DTOs.DepartmentDTOs;
+﻿using AutoMapper;
+using EmployeeManagment.BL.DTOs.DepartmentDTOs;
 using EmployeeManagment.BL.Services.Abstractions;
 using EmployeeManagment.Core.Entities;
 using EmployeeManagment.Data.Repostories.Abstactions;
@@ -8,21 +9,17 @@ namespace EmployeeManagment.BL.Services.Implementations
     public class EmployeeService : IEmployeeService
     {
         private readonly IEmployeeRepostory _employeeRepo;
-
-        public EmployeeService(IEmployeeRepostory employeeRepo)
+        private readonly IMapper _mapper;
+        public EmployeeService(IEmployeeRepostory employeeRepo, IMapper mapper)
         {
             _employeeRepo = employeeRepo;
+            _mapper = mapper;
         }
 
         public async Task<Employee> CreateAsync(EmployeeCreateDto employeeCreateDto)
         {
-            Employee employee = new Employee();
-            employee.Surname = employeeCreateDto.Surname;
-            employee.Name = employeeCreateDto.Name;
-            employee.DepartmentId = employeeCreateDto.DepartmentId;
-            employee.Salary = employeeCreateDto.Salary;
-            employee.Age = employeeCreateDto.Age;
-            employee.IsDeleted = employeeCreateDto.IsDeleted;
+            Employee employee = _mapper.Map<Employee>(employeeCreateDto);
+            employee.CreateAt = DateTime.UtcNow.AddHours(4) ;
             
             var saved = await _employeeRepo.CreateAsync(employee);
             await _employeeRepo.SavaChangesAsync();
@@ -34,9 +31,6 @@ namespace EmployeeManagment.BL.Services.Implementations
            return await _employeeRepo.GetAllAsync();
         }
 
-        //public Employee SoftDelete(Employee employee)
-        //{
-        //   return _employeeRepo.SoftDelete(employee);
-        //}
+        
     }
 }

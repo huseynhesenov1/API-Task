@@ -31,7 +31,7 @@ public class GenericRepostory<Tentity> : IGenericRepostory<Tentity> where Tentit
          table.Remove(entity);
         
     }
-    public async Task<Tentity> GetByIdAsAsync(int Id)
+    public async Task<Tentity> GetByIdAsync(int Id)
     {
        return await table.FirstOrDefaultAsync(x => x.Id == Id);
     }
@@ -46,9 +46,10 @@ public class GenericRepostory<Tentity> : IGenericRepostory<Tentity> where Tentit
        return await _context.SaveChangesAsync();
     }
 
-    //public Tentity SoftDelete(Tentity entity)
-    //{
-    //    entity.IsDeleted = false;
-    //    return entity;
-    //}
+    public async Task<bool> IsExistsAsync(int Id)
+    {
+        return await table.AnyAsync(x => x.Id == Id && !x.IsDeleted);
+    }
+
+    
 }

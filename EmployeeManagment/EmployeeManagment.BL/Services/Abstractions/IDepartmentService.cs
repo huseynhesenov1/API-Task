@@ -13,5 +13,6 @@ namespace EmployeeManagment.BL.Services.Abstractions
     {
         Task<ICollection<Department>> GetAllAsync();
         Task<Department> CreateAsync(DepartmentCreateDto departmentCreateDto);
+        Task<Department> GetByIdAsync(int id);
     }
 }
