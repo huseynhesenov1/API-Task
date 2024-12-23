@@ -21,3 +21,4 @@ C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\ne
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\refint\EmployeeManagment.Core.dll
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.pdb
 C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\ref\EmployeeManagment.Core.dll
+C:\Users\ACER\Desktop\APİ\EmployeeManagment\EmployeeManagment.Core\obj\Debug\net8.0\EmployeeManagment.Core.csproj.AssemblyReference.cache

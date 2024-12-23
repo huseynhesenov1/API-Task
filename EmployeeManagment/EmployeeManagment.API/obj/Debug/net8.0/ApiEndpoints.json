@@ -1,5 +1,57 @@
 [
   {
+    "ContainingType": "EmployeeManagment.API.Controllers.AccountsController",
+    "Method": "GetAllUser",
+    "RelativePath": "api/Accounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.ICollection\u00601[[EmployeeManagment.Core.Entities.AppUser, EmployeeManagment.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "EmployeeManagment.API.Controllers.AccountsController",
+    "Method": "GetOneUser",
+    "RelativePath": "api/Accounts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EmployeeManagment.API.Controllers.AccountsController",
+    "Method": "Register",
+    "RelativePath": "api/Accounts/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appUserCreateDto",
+        "Type": "EmployeeManagment.BL.DTOs.AppUserDto.AppUserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "EmployeeManagment.API.Controllers.DepartmentsController",
     "Method": "GetAll",
     "RelativePath": "api/Departments",
@@ -38,7 +90,7 @@
   {
     "ContainingType": "EmployeeManagment.API.Controllers.DepartmentsController",
     "Method": "GetById",
-    "RelativePath": "api/Departments/id",
+    "RelativePath": "api/Departments/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -46,7 +98,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -54,7 +106,7 @@
   {
     "ContainingType": "EmployeeManagment.API.Controllers.DepartmentsController",
     "Method": "SoftDelete",
-    "RelativePath": "api/Departments/id",
+    "RelativePath": "api/Departments/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -62,7 +114,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []
@@ -70,7 +122,7 @@
   {
     "ContainingType": "EmployeeManagment.API.Controllers.DepartmentsController",
     "Method": "Update",
-    "RelativePath": "api/Departments/id",
+    "RelativePath": "api/Departments/{id}",
     "HttpMethod": "PUT",
     "IsController": true,
     "Order": 0,
@@ -78,7 +130,7 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": false
+        "IsRequired": true
       },
       {
         "Name": "departmentCreateDto",

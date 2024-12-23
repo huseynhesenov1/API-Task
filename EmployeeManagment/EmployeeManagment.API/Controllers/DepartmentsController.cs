@@ -31,8 +31,8 @@ namespace EmployeeManagment.API.Controllers
             }
             return StatusCode(StatusCodes.Status201Created, await _depertmentService.CreateAsync(departmentCreateDto)); 
         }
-        [HttpGet]
-        [Route("id")]
+        [HttpGet("{id}")]
+       
         public async Task<IActionResult> GetById(int id)
         {
             try
@@ -43,10 +43,9 @@ namespace EmployeeManagment.API.Controllers
             {
                 return StatusCode(StatusCodes.Status404NotFound, e.Message);
             }
-            
         }
-        [HttpDelete]
-        [Route("id")]
+        [HttpDelete("{id}")]
+        
         public async Task<IActionResult> SoftDelete(int id)
         {
             try
@@ -59,8 +58,8 @@ namespace EmployeeManagment.API.Controllers
             }
 
         }
-        [HttpPut]
-        [Route("id")]
+        [HttpPut("{id}")]
+         
         public async Task<IActionResult> Update(int id, DepartmentCreateDto departmentCreateDto)
         {
             try
