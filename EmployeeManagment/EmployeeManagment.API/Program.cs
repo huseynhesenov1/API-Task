@@ -22,7 +22,7 @@ builder.Services.AddDbContext<AppDbContext>(opt =>
 
 
 builder.Services.AddRepostory();
-builder.Services.AddBussinesServices();
+//builder.Services.AddBussinesServices();
 builder.Services.AddIdentity<AppUser,IdentityRole>(
     opt =>
     {

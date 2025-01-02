@@ -1,0 +1,34 @@
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Data.deps.json
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Data.runtimeconfig.json
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Data.dll
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Data.pdb
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Core.dll
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Core.pdb
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.csproj.AssemblyReference.cache
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\Academic.C4ED6105.Up2Date
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.dll
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\refint\AcademicManagment.Data.dll
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.pdb
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\ref\AcademicManagment.Data.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Data.deps.json
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Data.runtimeconfig.json
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Data.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Data.pdb
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Core.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\bin\Debug\net8.0\AcademicManagment.Core.pdb
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.AssemblyInfo.cs
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\Academic.C4ED6105.Up2Date
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\refint\AcademicManagment.Data.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.pdb
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\AcademicManagment.Data.genruntimeconfig.cache
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Data\obj\Debug\net8.0\ref\AcademicManagment.Data.dll

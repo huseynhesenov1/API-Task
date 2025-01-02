@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.bl\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|solutionrelative:academicmanagment.bl\\services\\implementations\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.data\\repostory\\abstraction\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|solutionrelative:academicmanagment.data\\repostory\\abstraction\\igenericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.data\\repostory\\implementations\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|solutionrelative:academicmanagment.data\\repostory\\implementations\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2FA04-C3E4-4ADB-9864-10717287D3FD}|AcademicManagment.API\\AcademicManagment.API.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2FA04-C3E4-4ADB-9864-10717287D3FD}|AcademicManagment.API\\AcademicManagment.API.csproj|solutionrelative:academicmanagment.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|solutionrelative:academicmanagment.bl\\services\\abstractions\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.bl\\services\\abstractions\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|solutionrelative:academicmanagment.bl\\services\\abstractions\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|solutionrelative:academicmanagment.bl\\services\\implementations\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.data\\repostory\\implementations\\orderrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|solutionrelative:academicmanagment.data\\repostory\\implementations\\orderrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.data\\repostory\\abstraction\\iorderitemrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|solutionrelative:academicmanagment.data\\repostory\\abstraction\\iorderitemrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.data\\repostory\\implementations\\orderitemrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|solutionrelative:academicmanagment.data\\repostory\\implementations\\orderitemrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2FA04-C3E4-4ADB-9864-10717287D3FD}|AcademicManagment.API\\AcademicManagment.API.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2FA04-C3E4-4ADB-9864-10717287D3FD}|AcademicManagment.API\\AcademicManagment.API.csproj|solutionrelative:academicmanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2FA04-C3E4-4ADB-9864-10717287D3FD}|AcademicManagment.API\\AcademicManagment.API.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0D2FA04-C3E4-4ADB-9864-10717287D3FD}|AcademicManagment.API\\AcademicManagment.API.csproj|solutionrelative:academicmanagment.api\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CDEE91-E3A0-4CEB-A8B3-015FCA79AB7D}|AcademicManagment.Core\\AcademicManagment.Core.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CDEE91-E3A0-4CEB-A8B3-015FCA79AB7D}|AcademicManagment.Core\\AcademicManagment.Core.csproj|solutionrelative:academicmanagment.core\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.bl\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|solutionrelative:academicmanagment.bl\\dtos\\ordercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.bl\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|solutionrelative:academicmanagment.bl\\dtos\\productcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0D2FA04-C3E4-4ADB-9864-10717287D3FD}|AcademicManagment.API\\AcademicManagment.API.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0D2FA04-C3E4-4ADB-9864-10717287D3FD}|AcademicManagment.API\\AcademicManagment.API.csproj|solutionrelative:academicmanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.bl\\profiles\\orderprofiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|solutionrelative:academicmanagment.bl\\profiles\\orderprofiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.bl\\profiles\\productprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C481584E-89CC-47D0-BA99-DA66BC95EF1B}|AcademicManagment.BL\\AcademicManagment.BL.csproj|solutionrelative:academicmanagment.bl\\profiles\\productprofiles\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CDEE91-E3A0-4CEB-A8B3-015FCA79AB7D}|AcademicManagment.Core\\AcademicManagment.Core.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.core\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CDEE91-E3A0-4CEB-A8B3-015FCA79AB7D}|AcademicManagment.Core\\AcademicManagment.Core.csproj|solutionrelative:academicmanagment.core\\entities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4CDEE91-E3A0-4CEB-A8B3-015FCA79AB7D}|AcademicManagment.Core\\AcademicManagment.Core.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4CDEE91-E3A0-4CEB-A8B3-015FCA79AB7D}|AcademicManagment.Core\\AcademicManagment.Core.csproj|solutionrelative:academicmanagment.core\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|c:\\users\\acer\\desktop\\academicmanagment\\academicmanagment.data\\repostory\\implementations\\productrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D94F72-099A-4A3A-AD3F-07F68A16B264}|AcademicManagment.Data\\AcademicManagment.Data.csproj|solutionrelative:academicmanagment.data\\repostory\\implementations\\productrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Services\\Implementations\\OrderService.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.BL\\Services\\Implementations\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Services\\Implementations\\OrderService.cs",
+              "RelativeToolTip": "AcademicManagment.BL\\Services\\Implementations\\OrderService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:25:27.728Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.BL\\Services\\Implementations\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Services\\Implementations\\ProductService.cs",
+              "RelativeToolTip": "AcademicManagment.BL\\Services\\Implementations\\ProductService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIAwwCAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:47:13.002Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Implementations\\GenericRepostory.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Data\\Repostory\\Implementations\\GenericRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Implementations\\GenericRepostory.cs",
+              "RelativeToolTip": "AcademicManagment.Data\\Repostory\\Implementations\\GenericRepostory.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T17:03:31.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Abstraction\\IGenericRepostory.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Data\\Repostory\\Abstraction\\IGenericRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Abstraction\\IGenericRepostory.cs",
+              "RelativeToolTip": "AcademicManagment.Data\\Repostory\\Abstraction\\IGenericRepostory.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:23:55.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Services\\Abstractions\\IOrderService.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.BL\\Services\\Abstractions\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Services\\Abstractions\\IOrderService.cs",
+              "RelativeToolTip": "AcademicManagment.BL\\Services\\Abstractions\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:25:19.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.BL\\Services\\Abstractions\\IProductService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Services\\Abstractions\\IProductService.cs",
+              "RelativeToolTip": "AcademicManagment.BL\\Services\\Abstractions\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:28:06.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "AcademicManagment.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:36:27.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Implementations\\OrderRepostory.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Data\\Repostory\\Implementations\\OrderRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Implementations\\OrderRepostory.cs",
+              "RelativeToolTip": "AcademicManagment.Data\\Repostory\\Implementations\\OrderRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:41:54.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IOrderItemRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Abstraction\\IOrderItemRepostory.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Data\\Repostory\\Abstraction\\IOrderItemRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Abstraction\\IOrderItemRepostory.cs",
+              "RelativeToolTip": "AcademicManagment.Data\\Repostory\\Abstraction\\IOrderItemRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:41:44.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderItemRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Implementations\\OrderItemRepostory.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Data\\Repostory\\Implementations\\OrderItemRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Implementations\\OrderItemRepostory.cs",
+              "RelativeToolTip": "AcademicManagment.Data\\Repostory\\Implementations\\OrderItemRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:41:41.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.API\\Program.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.API\\Program.cs",
+              "RelativeToolTip": "AcademicManagment.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAjwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:44:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.API\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.API\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.API\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "AcademicManagment.API\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:41:56.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\DTOs\\ProductCreateDto.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.BL\\DTOs\\ProductCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\DTOs\\ProductCreateDto.cs",
+              "RelativeToolTip": "AcademicManagment.BL\\DTOs\\ProductCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:28:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Core\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Core\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Core\\Entities\\Order.cs",
+              "RelativeToolTip": "AcademicManagment.Core\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:24:18.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\DTOs\\OrderCreateDto.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.BL\\DTOs\\OrderCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\DTOs\\OrderCreateDto.cs",
+              "RelativeToolTip": "AcademicManagment.BL\\DTOs\\OrderCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:28:50.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "AcademicManagment.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.API\\appsettings.json",
+              "RelativeToolTip": "AcademicManagment.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T16:14:19.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Profiles\\OrderProfiles\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.BL\\Profiles\\OrderProfiles\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Profiles\\OrderProfiles\\OrderProfile.cs",
+              "RelativeToolTip": "AcademicManagment.BL\\Profiles\\OrderProfiles\\OrderProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:57:58.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "RelativeToolTip": "AcademicManagment.BL\\Profiles\\ProductProfiles\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:58:09.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Core\\Entities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Core\\Entities\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Core\\Entities\\OrderItem.cs",
+              "RelativeToolTip": "AcademicManagment.Core\\Entities\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:24:24.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Core\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Core\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Core\\Entities\\Product.cs",
+              "RelativeToolTip": "AcademicManagment.Core\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:24:19.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Implementations\\ProductRepostory.cs",
+              "RelativeDocumentMoniker": "AcademicManagment.Data\\Repostory\\Implementations\\ProductRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AcademicManagment\\AcademicManagment.Data\\Repostory\\Implementations\\ProductRepostory.cs",
+              "RelativeToolTip": "AcademicManagment.Data\\Repostory\\Implementations\\ProductRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:23:50.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -22,7 +22,7 @@
   {
     "ContainingType": "EmployeeManagment.API.Controllers.AccountsController",
     "Method": "GetOneUser",
-    "RelativePath": "api/Accounts",
+    "RelativePath": "api/Accounts/{name}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -30,7 +30,7 @@
       {
         "Name": "name",
         "Type": "System.String",
-        "IsRequired": false
+        "IsRequired": true
       }
     ],
     "ReturnTypes": []

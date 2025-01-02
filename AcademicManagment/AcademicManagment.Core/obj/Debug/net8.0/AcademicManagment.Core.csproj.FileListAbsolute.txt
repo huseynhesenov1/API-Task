@@ -1,0 +1,22 @@
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\bin\Debug\net8.0\AcademicManagment.Core.deps.json
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\bin\Debug\net8.0\AcademicManagment.Core.dll
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\bin\Debug\net8.0\AcademicManagment.Core.pdb
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.dll
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\refint\AcademicManagment.Core.dll
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.pdb
+C:\Users\I Novbe\source\repos\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\ref\AcademicManagment.Core.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\bin\Debug\net8.0\AcademicManagment.Core.deps.json
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\bin\Debug\net8.0\AcademicManagment.Core.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\bin\Debug\net8.0\AcademicManagment.Core.pdb
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.AssemblyInfo.cs
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\refint\AcademicManagment.Core.dll
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\AcademicManagment.Core.pdb
+C:\Users\ACER\Desktop\AcademicManagment\AcademicManagment.Core\obj\Debug\net8.0\ref\AcademicManagment.Core.dll
