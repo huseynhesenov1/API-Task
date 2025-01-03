@@ -1,4 +1,5 @@
 ﻿using FluentValidation;
+using Microsoft.AspNetCore.Http;
 using StoreManagment.Core.Entities;
 
 namespace StoreManagment.BL.DTOs.ProductDtos;
@@ -11,6 +12,7 @@ public class ProductCreateDto
     public int CatagoryId { get; set; }
     public int SizeId { get; set; }
     public int? ColorId { get; set; }
+    public IFormFile Image { get; set; }
 }
 public class ProductCreateDtoValidation: AbstractValidator<ProductCreateDto>
 {

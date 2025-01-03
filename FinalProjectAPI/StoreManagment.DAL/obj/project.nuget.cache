@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5n18/nKb2YE=",
+  "dgSpecHash": "Q52VVoUy++s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.DAL\\StoreManagment.DAL.csproj",
+  "projectFilePath": "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.DAL\\StoreManagment.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ACER\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ACER\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

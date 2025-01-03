@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.Core\\StoreManagment.Core.csproj": {}
+    "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.Core\\StoreManagment.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.Core\\StoreManagment.Core.csproj": {
+    "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.Core\\StoreManagment.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.Core\\StoreManagment.Core.csproj",
+        "projectUniqueName": "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.Core\\StoreManagment.Core.csproj",
         "projectName": "StoreManagment.Core",
-        "projectPath": "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.Core\\StoreManagment.Core.csproj",
+        "projectPath": "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.Core\\StoreManagment.Core.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.Core\\obj\\",
+        "outputPath": "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",

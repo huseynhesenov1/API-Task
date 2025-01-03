@@ -16,8 +16,8 @@ namespace StoreManagment.API.Controllers
         {
             _prodService = prodService;
         }
-        [HttpPost]
-        public async Task<IActionResult> Create(ProductCreateDto productCreateDto)
+        [HttpPost, DisableRequestSizeLimit]
+        public async Task<IActionResult> Create([FromForm]ProductCreateDto productCreateDto)
         {
             try
             {

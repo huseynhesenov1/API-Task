@@ -1,11 +1,14 @@
 ﻿using AutoMapper;
+using Microsoft.AspNetCore.Hosting;
 using Microsoft.EntityFrameworkCore.Storage.Json;
 using StoreManagment.BL.DTOs.ProductDtos;
 using StoreManagment.BL.Exceptions.ProductExceptions;
 using StoreManagment.BL.Services.Abstractions;
+using StoreManagment.BL.Utilities;
 using StoreManagment.Core.Entities;
 using StoreManagment.DAL.Contexts;
 using StoreManagment.DAL.Repostories.Abstractions;
+using System.Data;
 using System.Drawing;
 
 namespace StoreManagment.BL.Services.Implementations;
@@ -21,6 +24,48 @@ public class ProductService : IProductService
         _prodRepo = prodRepo;
         _mapper = mapper;
         _context = context;
+    }
+    public async Task<Product> CreateAsync(ProductCreateDto productCreateDto)
+    {
+        if (productCreateDto.Image == null)
+        {
+            throw new NotFoundExceptions("Img tapilmadi");
+        }
+        //if (productCreateDto.Image.CheckSize(3))
+        //{
+        //    throw new NotFoundExceptions("3 den cox pla bilmez");
+        //}
+        //if (productCreateDto.Image.CheckType())
+        //{
+        //    throw new NotFoundExceptions("bu type ola bilmez");
+        //}
+
+
+        var folderName = Path.Combine("Resource", "ImageUpload");
+        var pathToSave = Path.Combine(Directory.GetCurrentDirectory(), folderName);
+        if (!Directory.Exists(pathToSave))
+        {
+            Directory.CreateDirectory(pathToSave);
+        }
+        var fileName = productCreateDto.Image.FileName;
+        var fullPath = Path.Combine(pathToSave, fileName);
+        var dbPath = Path.Combine(folderName, fileName);
+
+        if (System.IO.File.Exists(fullPath))
+        {
+            fileName = fileName + Guid.NewGuid().ToString();
+        }
+        using(var stream = new FileStream(fullPath, FileMode.Create))
+        {
+            productCreateDto.Image.CopyTo(stream);
+        }
+
+        Product product = _mapper.Map<Product>(productCreateDto);
+        product.ImgPath = fileName;
+        product.CreateAt = DateTime.UtcNow.AddHours(4);
+        var res = await _prodRepo.CreateAsync(product);
+        await _context.SaveChangesAsync();
+        return res;
     }
     public async Task<Product> UpdateAsync(int id, ProductCreateDto productCreateDto)
     {
@@ -50,14 +95,7 @@ public class ProductService : IProductService
         await _context.SaveChangesAsync();
         return product;
     }
-    public async Task<Product> CreateAsync(ProductCreateDto productCreateDto)
-    {
-        Product product = _mapper.Map<Product>(productCreateDto);
-        product.CreateAt = DateTime.UtcNow.AddHours(4);
-        var res = await _prodRepo.CreateAsync(product);
-        await _context.SaveChangesAsync();
-        return res;
-    }
+  
 
     public async Task<ICollection<Product>> GetAllAsync()
     {

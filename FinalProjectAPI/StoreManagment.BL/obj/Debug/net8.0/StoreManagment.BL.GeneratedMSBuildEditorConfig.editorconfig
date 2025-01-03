@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = StoreManagment.BL
-build_property.ProjectDir = C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\
+build_property.ProjectDir = C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.BL\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -2899,11 +2899,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.BL\\StoreManagment.BL.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.BL\\StoreManagment.BL.csproj",
       "projectName": "StoreManagment.BL",
-      "projectPath": "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.BL\\StoreManagment.BL.csproj",
+      "projectPath": "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.BL\\StoreManagment.BL.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.BL\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2921,8 +2921,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.DAL\\StoreManagment.DAL.csproj": {
-              "projectPath": "C:\\Users\\ACER\\source\\repos\\FinalProjectAPI\\StoreManagment.DAL\\StoreManagment.DAL.csproj"
+            "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.DAL\\StoreManagment.DAL.csproj": {
+              "projectPath": "C:\\Users\\ACER\\Desktop\\APİ\\FinalProjectAPI\\StoreManagment.DAL\\StoreManagment.DAL.csproj"
             }
           }
         }
