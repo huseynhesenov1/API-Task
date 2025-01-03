@@ -21,3 +21,4 @@ C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.Core\obj\Debug\net8.0\
 C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.Core\obj\Debug\net8.0\refint\StoreManagment.Core.dll
 C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.Core\obj\Debug\net8.0\StoreManagment.Core.pdb
 C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.Core\obj\Debug\net8.0\ref\StoreManagment.Core.dll
+C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.Core\obj\Debug\net8.0\StoreManagment.Core.csproj.AssemblyReference.cache

@@ -1,23 +1,12 @@
-using FluentValidation.AspNetCore;
-using FluentValidation;
+using Microsoft.AspNetCore.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
 using StoreManagment.BL.ConfigrationManagers;
-using StoreManagment.BL.Profiles.CatagoryProfiles;
-using StoreManagment.BL.Profiles.ColorProfiles;
-using StoreManagment.BL.Profiles.ProductProfiles;
-using StoreManagment.BL.Profiles.SizeProfiles;
-using StoreManagment.BL.Services.Abstractions;
-using StoreManagment.BL.Services.Implementations;
+using StoreManagment.Core.Entities;
 using StoreManagment.DAL.Contexts;
-using StoreManagment.DAL.Repostories.Abstractions;
-using StoreManagment.DAL.Repostories.Implementations;
-using StoreManagment.BL.DTOs.ProductDtos;
-using StoreManagment.BL.DTOs.SizeDTOs;
-using StoreManagment.BL.DTOs.ColorDTOs;
-using StoreManagment.BL.DTOs.CatagoryDtos;
 
 var builder = WebApplication.CreateBuilder(args);
-
 
 
 
@@ -26,12 +15,21 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<AppDBContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("MsSql")));
+builder.Services.AddIdentity<AppUser, IdentityRole>(
+    opt =>
+    {
+        opt.Password.RequiredLength = 8;
+        opt.User.RequireUniqueEmail = true;
+        opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
+        opt.Lockout.MaxFailedAccessAttempts = 5;
+    }
+    ).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDBContext>();
 builder.Services.AddAutoMapper();
 builder.Services.AddService();
 builder.Services.AddRepostory();
 var app = builder.Build();
 
- 
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();

@@ -12,5 +12,6 @@ public static class ConfigrationService
         services.AddScoped<ICatagoryService, CatagoryService>();
         services.AddScoped<ISizeService, SizeService>();
         services.AddScoped<IColorService, ColorService>();
+        services.AddScoped<IAccountService, AccountService>();
     }
 }

@@ -305,3 +305,8 @@ C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\obj\Debug\net8.0\r
 C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\obj\Debug\net8.0\StoreManagment.API.pdb
 C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\obj\Debug\net8.0\StoreManagment.API.genruntimeconfig.cache
 C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\obj\Debug\net8.0\ref\StoreManagment.API.dll
+C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ACER\Desktop\APİ\FinalProjectAPI\StoreManagment.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

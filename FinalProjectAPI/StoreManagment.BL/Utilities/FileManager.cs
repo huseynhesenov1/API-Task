@@ -4,8 +4,6 @@ namespace StoreManagment.BL.Utilities;
 
 public static class FileManager
 {
-    
-
     public static bool CheckSize(this IFormFile formFile, int size)
     {
         if (formFile.Length > size * 1024 * 1024)

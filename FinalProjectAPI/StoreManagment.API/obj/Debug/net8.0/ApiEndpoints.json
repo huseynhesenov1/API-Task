@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "StoreManagment.API.Controllers.AccountsController",
+    "Method": "Register",
+    "RelativePath": "api/Accounts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appUserCreateDto",
+        "Type": "StoreManagment.BL.DTOs.AppUserDtos.AppUserCreateDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "StoreManagment.API.Controllers.CatagorysController",
     "Method": "Create",
     "RelativePath": "api/Catagorys",
