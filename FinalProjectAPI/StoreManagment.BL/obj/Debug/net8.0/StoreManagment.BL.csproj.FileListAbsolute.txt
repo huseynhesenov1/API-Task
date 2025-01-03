@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\bin\Debug\net8.0\StoreManagment.BL.deps.json
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\bin\Debug\net8.0\StoreManagment.BL.dll
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\bin\Debug\net8.0\StoreManagment.BL.pdb
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\bin\Debug\net8.0\StoreManagment.Core.dll
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\bin\Debug\net8.0\StoreManagment.DAL.dll
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\bin\Debug\net8.0\StoreManagment.DAL.pdb
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\bin\Debug\net8.0\StoreManagment.Core.pdb
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\StoreManagment.BL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\StoreManagment.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\StoreManagment.BL.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\StoreManagment.BL.AssemblyInfo.cs
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\StoreManagment.BL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\StoreMan.34956176.Up2Date
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\StoreManagment.BL.dll
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\refint\StoreManagment.BL.dll
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\StoreManagment.BL.pdb
+C:\Users\ACER\source\repos\FinalProjectAPI\StoreManagment.BL\obj\Debug\net8.0\ref\StoreManagment.BL.dll

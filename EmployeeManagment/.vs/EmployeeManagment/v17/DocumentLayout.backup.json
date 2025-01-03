@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{21D3500F-65E8-46E9-9640-7B9C2AFC01EB}|EmployeeManagment.API\\EmployeeManagment.API.csproj|solutionrelative:employeemanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2E01756E-9EDE-4645-8B26-94CFC175193B}|EmployeeManagment.BL\\EmployeeManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\employeemanagment\\employeemanagment.bl\\configrationrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E01756E-9EDE-4645-8B26-94CFC175193B}|EmployeeManagment.BL\\EmployeeManagment.BL.csproj|solutionrelative:employeemanagment.bl\\configrationrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2E01756E-9EDE-4645-8B26-94CFC175193B}|EmployeeManagment.BL\\EmployeeManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\employeemanagment\\employeemanagment.bl\\configrationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E01756E-9EDE-4645-8B26-94CFC175193B}|EmployeeManagment.BL\\EmployeeManagment.BL.csproj|solutionrelative:employeemanagment.bl\\configrationservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D2D21D9-F7FB-4F1D-A40F-1109E8BB1239}|EmployeeManagment.Data\\EmployeeManagment.Data.csproj|c:\\users\\acer\\desktop\\ap\u0130\\employeemanagment\\employeemanagment.data\\repostories\\implementations\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D2D21D9-F7FB-4F1D-A40F-1109E8BB1239}|EmployeeManagment.Data\\EmployeeManagment.Data.csproj|solutionrelative:employeemanagment.data\\repostories\\implementations\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E01756E-9EDE-4645-8B26-94CFC175193B}|EmployeeManagment.BL\\EmployeeManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\employeemanagment\\employeemanagment.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E01756E-9EDE-4645-8B26-94CFC175193B}|EmployeeManagment.BL\\EmployeeManagment.BL.csproj|solutionrelative:employeemanagment.bl\\services\\implementations\\departmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2E01756E-9EDE-4645-8B26-94CFC175193B}|EmployeeManagment.BL\\EmployeeManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\employeemanagment\\employeemanagment.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,15 +46,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\Services\\Implementations\\AccountService.cs",
-              "RelativeDocumentMoniker": "EmployeeManagment.BL\\Services\\Implementations\\AccountService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\Services\\Implementations\\AccountService.cs",
-              "RelativeToolTip": "EmployeeManagment.BL\\Services\\Implementations\\AccountService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ConfigrationRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\ConfigrationRepostory.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment.BL\\ConfigrationRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\ConfigrationRepostory.cs",
+              "RelativeToolTip": "EmployeeManagment.BL\\ConfigrationRepostory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T20:33:17.177Z",
+              "WhenOpened": "2025-01-02T21:16:36.975Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -52,16 +64,63 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.API\\Program.cs",
               "RelativeDocumentMoniker": "EmployeeManagment.API\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.API\\Program.cs*",
-              "RelativeToolTip": "EmployeeManagment.API\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAEwBgAAAApAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.API\\Program.cs",
+              "RelativeToolTip": "EmployeeManagment.API\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBcAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-30T18:30:36.956Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "DepartmentService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment.BL\\Services\\Implementations\\DepartmentService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\Services\\Implementations\\DepartmentService.cs",
+              "RelativeToolTip": "EmployeeManagment.BL\\Services\\Implementations\\DepartmentService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:31:46.762Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment.BL\\Services\\Implementations\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeToolTip": "EmployeeManagment.BL\\Services\\Implementations\\AccountService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T20:33:17.177Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepostory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.Data\\Repostories\\Implementations\\GenericRepostory.cs",
+              "RelativeDocumentMoniker": "EmployeeManagment.Data\\Repostories\\Implementations\\GenericRepostory.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.Data\\Repostories\\Implementations\\GenericRepostory.cs",
+              "RelativeToolTip": "EmployeeManagment.Data\\Repostories\\Implementations\\GenericRepostory.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA9wDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T18:33:41.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ConfigrationServices.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.BL\\ConfigrationServices.cs",
               "RelativeDocumentMoniker": "EmployeeManagment.BL\\ConfigrationServices.cs",
@@ -74,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "DepartmentsController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.API\\Controllers\\DepartmentsController.cs",
               "RelativeDocumentMoniker": "EmployeeManagment.API\\Controllers\\DepartmentsController.cs",
@@ -82,12 +141,11 @@
               "RelativeToolTip": "EmployeeManagment.API\\Controllers\\DepartmentsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T18:29:36.487Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-30T18:29:36.487Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "AccountsController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\EmployeeManagment\\EmployeeManagment.API\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "EmployeeManagment.API\\Controllers\\AccountsController.cs",
@@ -95,16 +153,7 @@
               "RelativeToolTip": "EmployeeManagment.API\\Controllers\\AccountsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-30T18:29:35.903Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "WhenOpened": "2024-12-30T18:29:35.903Z"
             }
           ]
         }
