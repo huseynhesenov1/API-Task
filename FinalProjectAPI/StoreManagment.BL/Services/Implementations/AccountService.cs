@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
 using StoreManagment.BL.DTOs.AppUserDtos;
 using StoreManagment.BL.Services.Abstractions;
+using StoreManagment.BL.TokenServices.Abstractions;
 using StoreManagment.Core.Entities;
 using System.Diagnostics.SymbolStore;
 using System.IdentityModel.Tokens.Jwt;
@@ -17,13 +18,14 @@ public class AccountService : IAccountService
     private readonly UserManager<AppUser> _userManger;
     private readonly RoleManager<IdentityRole> _roleManger;
     private readonly IMapper _mapper;
+    private readonly ITokenService _jwtTokenService;
 
-
-    public AccountService(UserManager<AppUser> userManger, IMapper mapper, RoleManager<IdentityRole> roleManger)
+    public AccountService(UserManager<AppUser> userManger, IMapper mapper, RoleManager<IdentityRole> roleManger, ITokenService jwtTokenService)
     {
         _userManger = userManger;
         _mapper = mapper;
         _roleManger = roleManger;
+        _jwtTokenService = jwtTokenService;
     }
 
     public async Task CreateAdminAsync()
@@ -62,40 +64,11 @@ public class AccountService : IAccountService
         {
             throw new Exception("Not Found");
         }
-        //bool result = await _signInManager.CheckPasswordSignInAsync(exsistingUser, appUserLoginDto.Password, true);
         bool result = await _userManger.CheckPasswordAsync(exsistingUser, appUserLoginDto.Password);
-        if (!result)
-        {
-            throw new Exception("Username or Password is wrong");
-        }
 
-        string issuer = "https://localhost:7139";
-        string audience = "https://localhost:7139";
-        SymmetricSecurityKey symmetricSecurityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("71b3aeea-8275-494a-be9b-5382b1212526"));
-
-
-        var userRoles = await _userManger.GetRolesAsync(exsistingUser);
-        SigningCredentials signingCredentials = new SigningCredentials(symmetricSecurityKey, SecurityAlgorithms.HmacSha256Signature);
-        List<Claim> claims = new List<Claim>();
-        claims.Add(new Claim(ClaimTypes.NameIdentifier, exsistingUser.Id));
-        claims.Add(new Claim(ClaimTypes.GivenName, exsistingUser.FirstName));
-        claims.Add(new Claim(ClaimTypes.Name, exsistingUser.UserName));
-        foreach (var role in userRoles)
-        {
-            claims.Add(new Claim(ClaimTypes.Role, role));
-        }
-        JwtSecurityToken generateToken = new JwtSecurityToken(
-            issuer: issuer,
-            audience: audience,
-            signingCredentials: signingCredentials,
-            claims: claims,
-            expires: DateTime.UtcNow.AddMinutes(60)
-
-            );
-
-        JwtSecurityTokenHandler handler = new JwtSecurityTokenHandler();
-        string token = handler.WriteToken(generateToken);
-
+        if (!result) { throw new Exception("Username or password is wrong"); }
+        IList<string> userRoles = await _userManger.GetRolesAsync(exsistingUser);
+        string token = _jwtTokenService.GenerateToken(exsistingUser, userRoles);
         return token;
     }
 

@@ -18,7 +18,7 @@ namespace StoreManagment.API.Controllers
         {
             _catagoryService = catagoryService;
         }
-        [Authorize(Roles = "Admin, Manager")]
+        [Authorize(Roles = "Admin, Manager,User")]
         [HttpPost]
         public async Task<IActionResult> Create([FromForm]CatagoryDto catagoryDto)
         {
