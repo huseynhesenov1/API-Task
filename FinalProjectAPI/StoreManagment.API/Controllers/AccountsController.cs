@@ -15,7 +15,7 @@ namespace StoreManagment.API.Controllers
         {
             _accountService = accountService;
         }
-        [HttpPost]
+        [HttpPost("register")]
         public async Task<IActionResult> Register(AppUserCreateDto appUserCreateDto)
         {
             if (!ModelState.IsValid)
@@ -25,6 +25,23 @@ namespace StoreManagment.API.Controllers
             try
             {
                 return StatusCode(StatusCodes.Status201Created, await _accountService.RegisterAsync(appUserCreateDto));
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, ex.Message);
+            }
+
+        }
+        [HttpPost("login")]
+        public async Task<IActionResult> Login(AppUserLoginDto appUserLoginDto)
+        {
+            if (!ModelState.IsValid)
+            {
+                return StatusCode(StatusCodes.Status400BadRequest, ModelState);
+            }
+            try
+            {
+                return StatusCode(StatusCodes.Status201Created, await _accountService.LoginAsync(appUserLoginDto));
             }
             catch (Exception ex)
             {

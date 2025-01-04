@@ -1,8 +1,24 @@
 [
   {
     "ContainingType": "StoreManagment.API.Controllers.AccountsController",
+    "Method": "Login",
+    "RelativePath": "api/Accounts/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "appUserLoginDto",
+        "Type": "StoreManagment.BL.DTOs.AppUserDtos.AppUserLoginDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StoreManagment.API.Controllers.AccountsController",
     "Method": "Register",
-    "RelativePath": "api/Accounts",
+    "RelativePath": "api/Accounts/register",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

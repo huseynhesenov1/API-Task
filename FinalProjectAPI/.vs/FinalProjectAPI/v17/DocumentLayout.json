@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|solutionrelative:storemanagment.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|solutionrelative:storemanagment.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.bl\\services\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|solutionrelative:storemanagment.bl\\services\\abstractions\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|solutionrelative:storemanagment.bl\\services\\implementations\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|solutionrelative:storemanagment.api\\controllers\\accountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.bl\\configrationmanagers\\configrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|solutionrelative:storemanagment.bl\\configrationmanagers\\configrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|solutionrelative:storemanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|solutionrelative:storemanagment.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.bl\\dtos\\appuserdtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|solutionrelative:storemanagment.bl\\dtos\\appuserdtos\\appuserlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|solutionrelative:storemanagment.bl\\profiles\\appuserprofiles\\appuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02AB0C9F-5258-4B2B-9E8D-D9C7311E7A29}|StoreManagment.Core\\StoreManagment.Core.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02AB0C9F-5258-4B2B-9E8D-D9C7311E7A29}|StoreManagment.Core\\StoreManagment.Core.csproj|solutionrelative:storemanagment.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.bl\\configrationmanagers\\configrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|solutionrelative:storemanagment.bl\\configrationmanagers\\configrationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.bl\\configrationmanagers\\configrationautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,24 +51,12 @@
       "RelativeMoniker": "D:0:0:{50537700-BA98-4CF6-ABDB-71CE0BB47D88}|StoreManagment.BL\\StoreManagment.BL.csproj|solutionrelative:storemanagment.bl\\dtos\\appuserdtos\\appusercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Migrations\\20250103165425_appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StoreManagment.DAL\\Migrations\\20250103165425_appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{29E941B3-0CC1-4829-B01A-5953BB2815D6}|StoreManagment.DAL\\StoreManagment.DAL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E941B3-0CC1-4829-B01A-5953BB2815D6}|StoreManagment.DAL\\StoreManagment.DAL.csproj|solutionrelative:storemanagment.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29E941B3-0CC1-4829-B01A-5953BB2815D6}|StoreManagment.DAL\\StoreManagment.DAL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.dal\\configrations\\appuserconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{29E941B3-0CC1-4829-B01A-5953BB2815D6}|StoreManagment.DAL\\StoreManagment.DAL.csproj|solutionrelative:storemanagment.dal\\configrations\\appuserconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED238447-0D6A-4E5B-A627-87F9D910A973}|StoreManagment.API\\StoreManagment.API.csproj|solutionrelative:storemanagment.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02AB0C9F-5258-4B2B-9E8D-D9C7311E7A29}|StoreManagment.Core\\StoreManagment.Core.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02AB0C9F-5258-4B2B-9E8D-D9C7311E7A29}|StoreManagment.Core\\StoreManagment.Core.csproj|solutionrelative:storemanagment.core\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{29E941B3-0CC1-4829-B01A-5953BB2815D6}|StoreManagment.DAL\\StoreManagment.DAL.csproj|c:\\users\\acer\\desktop\\ap\u0130\\finalprojectapi\\storemanagment.dal\\repostories\\implementations\\genericrepostory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,11 +74,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "GenericRepostory.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Repostories\\Implementations\\GenericRepostory.cs",
               "RelativeDocumentMoniker": "StoreManagment.DAL\\Repostories\\Implementations\\GenericRepostory.cs",
@@ -83,12 +87,11 @@
               "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T16:41:28.931Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IGenericRepostory.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Repostories\\Abstractions\\IGenericRepostory.cs",
               "RelativeDocumentMoniker": "StoreManagment.DAL\\Repostories\\Abstractions\\IGenericRepostory.cs",
@@ -97,6 +100,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-02T16:41:33.76Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.API\\appsettings.json",
+              "RelativeDocumentMoniker": "StoreManagment.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.API\\appsettings.json",
+              "RelativeToolTip": "StoreManagment.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-03T20:19:47.5Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -110,41 +126,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ConfigrationService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
-              "RelativeDocumentMoniker": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
-              "RelativeToolTip": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "AppUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "RelativeDocumentMoniker": "StoreManagment.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "RelativeToolTip": "StoreManagment.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:16:39.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T17:08:54.83Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
-              "RelativeDocumentMoniker": "StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
-              "RelativeToolTip": "StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:03:04.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "AccountsController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.API\\Controllers\\AccountsController.cs",
               "RelativeDocumentMoniker": "StoreManagment.API\\Controllers\\AccountsController.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.API\\Controllers\\AccountsController.cs",
               "RelativeToolTip": "StoreManagment.API\\Controllers\\AccountsController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAawBkAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T17:06:10.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeDocumentMoniker": "StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
+              "RelativeToolTip": "StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:03:04.59Z",
               "EditorCaption": ""
             },
             {
@@ -155,118 +170,27 @@
               "RelativeDocumentMoniker": "StoreManagment.BL\\Services\\Abstractions\\IAccountService.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Abstractions\\IAccountService.cs",
               "RelativeToolTip": "StoreManagment.BL\\Services\\Abstractions\\IAccountService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T17:02:53.369Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppUserProfile.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
-              "RelativeDocumentMoniker": "StoreManagment.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
-              "RelativeToolTip": "StoreManagment.BL\\Profiles\\AppUserProfiles\\AppUserProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:08:54.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ConfigrationAutoMapper.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\ConfigrationManagers\\ConfigrationAutoMapper.cs",
-              "RelativeDocumentMoniker": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationAutoMapper.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\ConfigrationManagers\\ConfigrationAutoMapper.cs",
-              "RelativeToolTip": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationAutoMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:12:41.664Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ICatagoryService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Abstractions\\ICatagoryService.cs",
-              "RelativeDocumentMoniker": "StoreManagment.BL\\Services\\Abstractions\\ICatagoryService.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Abstractions\\ICatagoryService.cs",
-              "RelativeToolTip": "StoreManagment.BL\\Services\\Abstractions\\ICatagoryService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:06:39.742Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppUserCreateDto.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "RelativeDocumentMoniker": "StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "RelativeToolTip": "StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAzwB0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:00:00.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250103165425_appuser.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Migrations\\20250103165425_appuser.cs",
-              "RelativeDocumentMoniker": "StoreManagment.DAL\\Migrations\\20250103165425_appuser.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Migrations\\20250103165425_appuser.cs",
-              "RelativeToolTip": "StoreManagment.DAL\\Migrations\\20250103165425_appuser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T16:54:25.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AppUserConfigration.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Configrations\\AppUserConfigration.cs",
-              "RelativeDocumentMoniker": "StoreManagment.DAL\\Configrations\\AppUserConfigration.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Configrations\\AppUserConfigration.cs",
-              "RelativeToolTip": "StoreManagment.DAL\\Configrations\\AppUserConfigration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T16:48:56.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.API\\Program.cs",
               "RelativeDocumentMoniker": "StoreManagment.API\\Program.cs",
               "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.API\\Program.cs",
               "RelativeToolTip": "StoreManagment.API\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwBsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T16:39:57.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "AppDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Contexts\\AppDBContext.cs",
-              "RelativeDocumentMoniker": "StoreManagment.DAL\\Contexts\\AppDBContext.cs",
-              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Contexts\\AppDBContext.cs",
-              "RelativeToolTip": "StoreManagment.DAL\\Contexts\\AppDBContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T16:38:50.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 7,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.Core\\Entities\\AppUser.cs",
               "RelativeDocumentMoniker": "StoreManagment.Core\\Entities\\AppUser.cs",
@@ -274,8 +198,91 @@
               "RelativeToolTip": "StoreManagment.Core\\Entities\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T16:34:39.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T16:34:39.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppUserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserLoginDto.cs",
+              "RelativeDocumentMoniker": "StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserLoginDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserLoginDto.cs",
+              "RelativeToolTip": "StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T18:56:13.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConfigrationService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
+              "RelativeDocumentMoniker": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
+              "RelativeToolTip": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:16:39.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigrationAutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\ConfigrationManagers\\ConfigrationAutoMapper.cs",
+              "RelativeDocumentMoniker": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationAutoMapper.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\ConfigrationManagers\\ConfigrationAutoMapper.cs",
+              "RelativeToolTip": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationAutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:12:41.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICatagoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Abstractions\\ICatagoryService.cs",
+              "RelativeDocumentMoniker": "StoreManagment.BL\\Services\\Abstractions\\ICatagoryService.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\Services\\Abstractions\\ICatagoryService.cs",
+              "RelativeToolTip": "StoreManagment.BL\\Services\\Abstractions\\ICatagoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:06:39.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUserCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
+              "RelativeDocumentMoniker": "StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
+              "RelativeToolTip": "StoreManagment.BL\\DTOs\\AppUserDtos\\AppUserCreateDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T17:00:00.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUserConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Configrations\\AppUserConfigration.cs",
+              "RelativeDocumentMoniker": "StoreManagment.DAL\\Configrations\\AppUserConfigration.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Configrations\\AppUserConfigration.cs",
+              "RelativeToolTip": "StoreManagment.DAL\\Configrations\\AppUserConfigration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:48:56.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Contexts\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "StoreManagment.DAL\\Contexts\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\AP\u0130\\FinalProjectAPI\\StoreManagment.DAL\\Contexts\\AppDBContext.cs",
+              "RelativeToolTip": "StoreManagment.DAL\\Contexts\\AppDBContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T16:38:50.17Z"
             }
           ]
         }
