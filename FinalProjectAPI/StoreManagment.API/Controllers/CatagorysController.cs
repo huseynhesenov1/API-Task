@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using StoreManagment.BL.DTOs.CatagoryDtos;
 using StoreManagment.BL.DTOs.ProductDtos;
@@ -17,9 +18,9 @@ namespace StoreManagment.API.Controllers
         {
             _catagoryService = catagoryService;
         }
-
+        [Authorize(Roles = "Admin, Manager")]
         [HttpPost]
-        public async Task<IActionResult> Create(CatagoryDto catagoryDto)
+        public async Task<IActionResult> Create([FromForm]CatagoryDto catagoryDto)
         {
             try
             {
@@ -37,6 +38,7 @@ namespace StoreManagment.API.Controllers
         {
             return await _catagoryService.GetAllAsync();
         }
+
         [HttpGet("{id}")]
         public async Task<IActionResult> GetById(int id)
         {

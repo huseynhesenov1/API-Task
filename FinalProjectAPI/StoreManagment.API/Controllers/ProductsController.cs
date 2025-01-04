@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using StoreManagment.BL.DTOs.ProductDtos;
 using StoreManagment.BL.Services.Abstractions;
@@ -17,6 +18,8 @@ namespace StoreManagment.API.Controllers
             _prodService = prodService;
         }
         [HttpPost, DisableRequestSizeLimit]
+        [Authorize(Roles = "Admin, Manager")]
+
         public async Task<IActionResult> Create([FromForm]ProductCreateDto productCreateDto)
         {
             try

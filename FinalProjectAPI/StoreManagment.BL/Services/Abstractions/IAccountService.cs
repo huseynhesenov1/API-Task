@@ -6,4 +6,7 @@ public interface IAccountService
 {
     Task<bool> RegisterAsync(AppUserCreateDto appUserCreateDto);
     Task<string> LoginAsync (AppUserLoginDto appUserLoginDto);
+    Task CreateRoleAsync();
+    Task CreateAdminAsync();
+    Task CreateManagerAsync();
 }

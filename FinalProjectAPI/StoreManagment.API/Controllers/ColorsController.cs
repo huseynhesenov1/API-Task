@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using StoreManagment.BL.DTOs.ColorDTOs;
 using StoreManagment.BL.DTOs.ProductDtos;
@@ -20,7 +21,9 @@ namespace StoreManagment.API.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(ColorDto colorDto)
+        [Authorize(Roles = "Admin, Manager")]
+
+        public async Task<IActionResult> Create([FromForm]ColorDto colorDto)
         {
             try
             {

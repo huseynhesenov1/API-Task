@@ -1,6 +1,54 @@
 [
   {
     "ContainingType": "StoreManagment.API.Controllers.AccountsController",
+    "Method": "AddedRole",
+    "RelativePath": "api/Accounts/addedRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StoreManagment.API.Controllers.AccountsController",
+    "Method": "CreateRole",
+    "RelativePath": "api/Accounts/createAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StoreManagment.API.Controllers.AccountsController",
+    "Method": "CreateManager",
+    "RelativePath": "api/Accounts/createManager",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "StoreManagment.API.Controllers.AccountsController",
     "Method": "Login",
     "RelativePath": "api/Accounts/login",
     "HttpMethod": "POST",
@@ -40,9 +88,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "catagoryDto",
-        "Type": "StoreManagment.BL.DTOs.CatagoryDtos.CatagoryDto",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []
@@ -129,9 +177,9 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "colorDto",
-        "Type": "StoreManagment.BL.DTOs.ColorDTOs.ColorDto",
-        "IsRequired": true
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

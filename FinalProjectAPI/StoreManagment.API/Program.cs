@@ -43,7 +43,7 @@ builder.Services.AddIdentity<AppUser, IdentityRole>(
         opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(10);
         opt.Lockout.MaxFailedAccessAttempts = 5;
     }
-    ).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDBContext>();
+    ).AddRoles<IdentityRole>().AddDefaultTokenProviders().AddEntityFrameworkStores<AppDBContext>();
 builder.Services.AddAutoMapper();
 builder.Services.AddService();
 builder.Services.AddRepostory();
@@ -58,8 +58,8 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
-app.UseAuthorization();
 app.UseAuthentication();
+app.UseAuthorization();
 app.MapControllers();
 
 app.Run();

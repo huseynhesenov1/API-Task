@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using StoreManagment.BL.DTOs.ProductDtos;
 using StoreManagment.BL.DTOs.SizeDTOs;
@@ -19,6 +20,8 @@ namespace StoreManagment.API.Controllers
             _sizeService = sizeService;
         }
         [HttpPost]
+        //[Authorize(Roles = "Admin, Manager")]
+
         public async Task<IActionResult> Create(SizeDto sizeDto)
         {
             try
