@@ -104,14 +104,6 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "GenericRepostory.cs",
@@ -151,6 +143,14 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AccountService.cs",
@@ -160,8 +160,7 @@
               "RelativeToolTip": "StoreManagment.BL\\Services\\Implementations\\AccountService.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAswEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:03:04.59Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T17:03:04.59Z"
             },
             {
               "$type": "Document",
@@ -173,8 +172,7 @@
               "RelativeToolTip": "StoreManagment.API\\Program.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAiwDIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T16:39:57.274Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T16:39:57.274Z"
             },
             {
               "$type": "Document",
@@ -186,8 +184,7 @@
               "RelativeToolTip": "StoreManagment.BL\\ConfigrationManagers\\ConfigrationService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T17:16:39.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-03T17:16:39.8Z"
             },
             {
               "$type": "Document",
@@ -225,8 +222,7 @@
               "RelativeToolTip": "StoreManagment.BL\\TokenServices\\Abstractions\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T22:06:09.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T22:06:09.608Z"
             },
             {
               "$type": "Document",
@@ -238,8 +234,7 @@
               "RelativeToolTip": "StoreManagment.BL\\TokenServices\\Implementations\\TokenService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAmwBgAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-04T22:06:17.494Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-04T22:06:17.494Z"
             },
             {
               "$type": "Document",

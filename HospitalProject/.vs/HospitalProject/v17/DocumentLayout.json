@@ -1,0 +1,521 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72D77C5F-CFC9-44EE-90BF-22DB7AC81088}|HospitalProject.API\\HospitalProject.API.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.api\\controllers\\insurancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D77C5F-CFC9-44EE-90BF-22DB7AC81088}|HospitalProject.API\\HospitalProject.API.csproj|solutionrelative:hospitalproject.api\\controllers\\insurancescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\repositories\\implementations\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\dtos\\patinetcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\dtos\\patinetcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\dtos\\insurancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\dtos\\insurancecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\services\\abstractions\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\services\\abstractions\\iinsuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D77C5F-CFC9-44EE-90BF-22DB7AC81088}|HospitalProject.API\\HospitalProject.API.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D77C5F-CFC9-44EE-90BF-22DB7AC81088}|HospitalProject.API\\HospitalProject.API.csproj|solutionrelative:hospitalproject.api\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\services\\implementations\\insuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\services\\implementations\\insuranceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\services\\implementations\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\services\\implementations\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D77C5F-CFC9-44EE-90BF-22DB7AC81088}|HospitalProject.API\\HospitalProject.API.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72D77C5F-CFC9-44EE-90BF-22DB7AC81088}|HospitalProject.API\\HospitalProject.API.csproj|solutionrelative:hospitalproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\profiles\\insuranceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\profiles\\insuranceprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\profiles\\patinetprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\profiles\\patinetprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\repositories\\abstractions\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.core\\entities\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|solutionrelative:hospitalproject.core\\entities\\insurance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\services\\abstractions\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\services\\abstractions\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.bl\\exceptions\\customnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C19CAE6-15A1-4E7A-8BE2-AB5C52474A82}|HospitalProject.BL\\HospitalProject.BL.csproj|solutionrelative:hospitalproject.bl\\exceptions\\customnotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.core\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|solutionrelative:hospitalproject.core\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\hospitalproject.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\hospitalproject.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\repositories\\implementations\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\repositories\\implementations\\patientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\repositories\\implementations\\insurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\repositories\\implementations\\insurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\repositories\\abstractions\\iinsurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\repositories\\abstractions\\iinsurancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\repositories\\abstractions\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\repositories\\abstractions\\ipatientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\migrations\\20250107112711_addedtabletocongig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\migrations\\20250107112711_addedtabletocongig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.dal\\configrations\\patientconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2532CE58-535D-4D6E-9170-83470FCDDE46}|HospitalProject.DAL\\HospitalProject.DAL.csproj|solutionrelative:hospitalproject.dal\\configrations\\patientconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.core\\enum\\bloodgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|solutionrelative:hospitalproject.core\\enum\\bloodgroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|solutionrelative:hospitalproject.core\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.core\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|solutionrelative:hospitalproject.core\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.core\\entities\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{858CFFF5-F523-4321-89DD-CD0B041EAE50}|HospitalProject.Core\\HospitalProject.Core.csproj|solutionrelative:hospitalproject.core\\entities\\baseauditable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D77C5F-CFC9-44EE-90BF-22DB7AC81088}|HospitalProject.API\\HospitalProject.API.csproj|c:\\users\\acer\\source\\repos\\hospitalproject\\hospitalproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{72D77C5F-CFC9-44EE-90BF-22DB7AC81088}|HospitalProject.API\\HospitalProject.API.csproj|solutionrelative:hospitalproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InsurancesController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.API\\Controllers\\InsurancesController.cs",
+              "RelativeDocumentMoniker": "HospitalProject.API\\Controllers\\InsurancesController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.API\\Controllers\\InsurancesController.cs",
+              "RelativeToolTip": "HospitalProject.API\\Controllers\\InsurancesController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:19:57.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IInsuranceService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Services\\Abstractions\\IInsuranceService.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\Services\\Abstractions\\IInsuranceService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Services\\Abstractions\\IInsuranceService.cs",
+              "RelativeToolTip": "HospitalProject.BL\\Services\\Abstractions\\IInsuranceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:12:53.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Services\\Implementations\\PatientService.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\Services\\Implementations\\PatientService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Services\\Implementations\\PatientService.cs",
+              "RelativeToolTip": "HospitalProject.BL\\Services\\Implementations\\PatientService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAA5wEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:42:47.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsuranceCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\DTOs\\InsuranceCreateDto.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\DTOs\\InsuranceCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\DTOs\\InsuranceCreateDto.cs",
+              "RelativeToolTip": "HospitalProject.BL\\DTOs\\InsuranceCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:15:16.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatinetCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\DTOs\\PatinetCreateDto.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\DTOs\\PatinetCreateDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\DTOs\\PatinetCreateDto.cs",
+              "RelativeToolTip": "HospitalProject.BL\\DTOs\\PatinetCreateDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T12:57:48.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Repositories\\Implementations\\GenericRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA9wCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:40:11.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsuranceService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Services\\Implementations\\InsuranceService.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\Services\\Implementations\\InsuranceService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Services\\Implementations\\InsuranceService.cs",
+              "RelativeToolTip": "HospitalProject.BL\\Services\\Implementations\\InsuranceService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwEMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:13:02.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.API\\Program.cs",
+              "RelativeDocumentMoniker": "HospitalProject.API\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.API\\Program.cs",
+              "RelativeToolTip": "HospitalProject.API\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:46:21.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatinetProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Profiles\\PatinetProfile.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\Profiles\\PatinetProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Profiles\\PatinetProfile.cs",
+              "RelativeToolTip": "HospitalProject.BL\\Profiles\\PatinetProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:00:43.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.API\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "HospitalProject.API\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.API\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "HospitalProject.API\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:51:49.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InsuranceProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Profiles\\InsuranceProfile.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\Profiles\\InsuranceProfile.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Profiles\\InsuranceProfile.cs",
+              "RelativeToolTip": "HospitalProject.BL\\Profiles\\InsuranceProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:23:04.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Insurance.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Entities\\Insurance.cs",
+              "RelativeDocumentMoniker": "HospitalProject.Core\\Entities\\Insurance.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Entities\\Insurance.cs",
+              "RelativeToolTip": "HospitalProject.Core\\Entities\\Insurance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:58:17.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Repositories\\Abstractions\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:39:48.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Services\\Abstractions\\IPatientService.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\Services\\Abstractions\\IPatientService.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Services\\Abstractions\\IPatientService.cs",
+              "RelativeToolTip": "HospitalProject.BL\\Services\\Abstractions\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:42:32.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CustomNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Exceptions\\CustomNotFoundException.cs",
+              "RelativeDocumentMoniker": "HospitalProject.BL\\Exceptions\\CustomNotFoundException.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.BL\\Exceptions\\CustomNotFoundException.cs",
+              "RelativeToolTip": "HospitalProject.BL\\Exceptions\\CustomNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T13:20:55.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:32:06.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "HospitalProject.Core\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Entities\\Patient.cs",
+              "RelativeToolTip": "HospitalProject.Core\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:57:00.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HospitalProject.DAL",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\HospitalProject.DAL.csproj",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\HospitalProject.DAL.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\HospitalProject.DAL.csproj",
+              "RelativeToolTip": "HospitalProject.DAL\\HospitalProject.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-07T10:31:46.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Implementations\\PatientRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Repositories\\Implementations\\PatientRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Implementations\\PatientRepository.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Repositories\\Implementations\\PatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:32:11.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InsuranceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Implementations\\InsuranceRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Repositories\\Implementations\\InsuranceRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Implementations\\InsuranceRepository.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Repositories\\Implementations\\InsuranceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:30:14.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IInsuranceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Abstractions\\IInsuranceRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Repositories\\Abstractions\\IInsuranceRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Abstractions\\IInsuranceRepository.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Repositories\\Abstractions\\IInsuranceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:29:53.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IPatientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Abstractions\\IPatientRepository.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Repositories\\Abstractions\\IPatientRepository.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Repositories\\Abstractions\\IPatientRepository.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Repositories\\Abstractions\\IPatientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:31:50.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250107112711_AddedTabletoCongig.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Migrations\\20250107112711_AddedTabletoCongig.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Migrations\\20250107112711_AddedTabletoCongig.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Migrations\\20250107112711_AddedTabletoCongig.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Migrations\\20250107112711_AddedTabletoCongig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:27:11.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PatientConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Configrations\\PatientConfigrations.cs",
+              "RelativeDocumentMoniker": "HospitalProject.DAL\\Configrations\\PatientConfigrations.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.DAL\\Configrations\\PatientConfigrations.cs",
+              "RelativeToolTip": "HospitalProject.DAL\\Configrations\\PatientConfigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:20:19.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BloodGroup.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Enum\\BloodGroup.cs",
+              "RelativeDocumentMoniker": "HospitalProject.Core\\Enum\\BloodGroup.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Enum\\BloodGroup.cs",
+              "RelativeToolTip": "HospitalProject.Core\\Enum\\BloodGroup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:02:13.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "HospitalProject.Core\\Enum\\Gender.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Enum\\Gender.cs",
+              "RelativeToolTip": "HospitalProject.Core\\Enum\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T11:04:45.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "HospitalProject.Core\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "HospitalProject.Core\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:37:05.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseAuditable.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Entities\\BaseAuditable.cs",
+              "RelativeDocumentMoniker": "HospitalProject.Core\\Entities\\BaseAuditable.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.Core\\Entities\\BaseAuditable.cs",
+              "RelativeToolTip": "HospitalProject.Core\\Entities\\BaseAuditable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T10:36:17.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HospitalProject.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\HospitalProject\\HospitalProject.API\\appsettings.json",
+              "RelativeToolTip": "HospitalProject.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-07T10:43:36.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

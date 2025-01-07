@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\bin\Debug\net8.0\HospitalProject.BL.deps.json
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\bin\Debug\net8.0\HospitalProject.BL.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\bin\Debug\net8.0\HospitalProject.BL.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\HospitalProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\HospitalProject.BL.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\HospitalProject.BL.AssemblyInfo.cs
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\HospitalProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\HospitalProject.BL.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\refint\HospitalProject.BL.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\HospitalProject.BL.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\ref\HospitalProject.BL.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\bin\Debug\net8.0\HospitalProject.Core.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\bin\Debug\net8.0\HospitalProject.DAL.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\bin\Debug\net8.0\HospitalProject.DAL.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\bin\Debug\net8.0\HospitalProject.Core.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\HospitalProject.BL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.BL\obj\Debug\net8.0\Hospital.AC576429.Up2Date

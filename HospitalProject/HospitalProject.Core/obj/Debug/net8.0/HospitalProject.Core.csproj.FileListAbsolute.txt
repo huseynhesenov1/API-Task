@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\bin\Debug\net8.0\HospitalProject.Core.deps.json
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\bin\Debug\net8.0\HospitalProject.Core.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\bin\Debug\net8.0\HospitalProject.Core.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\obj\Debug\net8.0\HospitalProject.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\obj\Debug\net8.0\HospitalProject.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\obj\Debug\net8.0\HospitalProject.Core.AssemblyInfo.cs
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\obj\Debug\net8.0\HospitalProject.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\obj\Debug\net8.0\HospitalProject.Core.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\obj\Debug\net8.0\refint\HospitalProject.Core.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\obj\Debug\net8.0\HospitalProject.Core.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.Core\obj\Debug\net8.0\ref\HospitalProject.Core.dll

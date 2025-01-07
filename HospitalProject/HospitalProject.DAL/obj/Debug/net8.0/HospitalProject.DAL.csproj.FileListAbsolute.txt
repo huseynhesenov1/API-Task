@@ -1,0 +1,17 @@
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\HospitalProject.DAL.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\HospitalProject.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\HospitalProject.DAL.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\HospitalProject.DAL.AssemblyInfo.cs
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\HospitalProject.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\bin\Debug\net8.0\HospitalProject.DAL.deps.json
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\bin\Debug\net8.0\HospitalProject.DAL.runtimeconfig.json
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\bin\Debug\net8.0\HospitalProject.DAL.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\bin\Debug\net8.0\HospitalProject.DAL.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\bin\Debug\net8.0\HospitalProject.Core.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\bin\Debug\net8.0\HospitalProject.Core.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\Hospital.FF921BEE.Up2Date
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\HospitalProject.DAL.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\refint\HospitalProject.DAL.dll
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\HospitalProject.DAL.pdb
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\HospitalProject.DAL.genruntimeconfig.cache
+C:\Users\ACER\source\repos\HospitalProject\HospitalProject.DAL\obj\Debug\net8.0\ref\HospitalProject.DAL.dll
